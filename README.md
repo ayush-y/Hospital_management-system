@@ -1,4 +1,5 @@
-```Hospital_management-system/
+```
+Hospital_management-system/
 │
 ├── gradle/                # Gradle wrapper files
 ├── src/                   # Main Java source code
