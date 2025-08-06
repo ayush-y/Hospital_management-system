@@ -1,6 +1,3 @@
-```
-
-
 
 Hospital_management-system/
 │
