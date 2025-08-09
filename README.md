@@ -1,6 +1,4 @@
 ```
-
-
 Hospital_management-system/
 │
 ├── gradle/                # Gradle wrapper files
